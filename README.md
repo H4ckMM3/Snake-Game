@@ -1,4 +1,3 @@
-Here’s the translation of your explanation into English:
 
 **Canvas and Context:**
 
